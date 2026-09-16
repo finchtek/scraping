@@ -84,9 +84,10 @@ Model Used (internal option — not needed for the deliverable)
 File Structure
 --------------
 scraping/
-├── venv/                    # Python virtual environment
-├── scraper.py               # Main pipeline script
-├── requirements.txt         # Pip dependencies
+├── scraper.py               # Main pipeline script (zero-setup, no keys)
+├── requirements.txt         # Pip dependencies (requests, beautifulsoup4)
+├── requirements-llm.txt     # Optional LLM extraction deps (internal use only)
+├── .env.example             # Optional Gemini key template (internal use only)
 ├── test-recipes/            # Test HTML recipe pages (own test posts)
 │   ├── recipe-chicken-curry.html
 │   ├── recipe-pasta-carbonara.html

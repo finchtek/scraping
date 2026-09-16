@@ -45,13 +45,18 @@ LITELLM_BASE_URL = os.getenv("LITELLM_BASE_URL", "")
 REQUEST_DELAY = 1.5  # seconds
 
 # Target recipe URLs (5–10 real URLs; skip sites with explicit no-scrape clauses)
+# Local test HTML files — own test posts (portable: resolved relative to this file)
+def _local_recipe(name: str) -> str:
+    from pathlib import Path
+    return Path(__file__).parent.joinpath("test-recipes", name).as_uri()
+
+
 RECIPE_URLS = [
-    # Local test HTML files — own test posts (fallback when live URLs fail)
-    "file:///home/finchy/scraping/test-recipes/recipe-chicken-curry.html",
-    "file:///home/finchy/scraping/test-recipes/recipe-pasta-carbonara.html",
-    "file:///home/finchy/scraping/test-recipes/recipe-banana-bread.html",
-    "file:///home/finchy/scraping/test-recipes/recipe-chocolate-chip-cookies.html",
-    "file:///home/finchy/scraping/test-recipes/recipe-lemon-salad.html",
+    _local_recipe("recipe-chicken-curry.html"),
+    _local_recipe("recipe-pasta-carbonara.html"),
+    _local_recipe("recipe-banana-bread.html"),
+    _local_recipe("recipe-chocolate-chip-cookies.html"),
+    _local_recipe("recipe-lemon-salad.html"),
 ]
 
 # ---------------------------------------------------------------------------
