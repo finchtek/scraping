@@ -1,0 +1,3 @@
+# Optional — only needed for LLM extraction (internal use).
+# The user-facing pipeline runs on the deterministic fallback without this.
+litellm==1.101.0

@@ -1,0 +1,345 @@
+{
+  "recipes": [
+    {
+      "name": "30-Minute Chicken Curry",
+      "ingredients": [
+        {
+          "name": "rapeseed or sunflower oil",
+          "quantity": 2.0,
+          "unit": "tbsp"
+        },
+        {
+          "name": "garlic cloves, finely grated",
+          "quantity": 4.0,
+          "unit": null
+        },
+        {
+          "name": "green chillies, 1 finely chopped, 1 sliced to serve (optional)",
+          "quantity": 2.0,
+          "unit": null
+        },
+        {
+          "name": "passata",
+          "quantity": 350.0,
+          "unit": "g"
+        },
+        {
+          "name": "garam masala",
+          "quantity": 1.0,
+          "unit": "tsp"
+        },
+        {
+          "name": "ground coriander",
+          "quantity": 1.0,
+          "unit": "tsp"
+        },
+        {
+          "name": "ground turmeric",
+          "quantity": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "name": "chilli powder",
+          "quantity": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "name": "honey",
+          "quantity": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "name": "dried fenugreek leaves",
+          "quantity": 1.0,
+          "unit": "tbsp"
+        },
+        {
+          "name": "double cream",
+          "quantity": 2.0,
+          "unit": "tbsp"
+        },
+        {
+          "name": "small handful of coriander, leaves picked, to serve",
+          "quantity": null,
+          "unit": null
+        },
+        {
+          "name": "cooked rice, to serve",
+          "quantity": null,
+          "unit": null
+        },
+        {
+          "name": "natural yogurt",
+          "quantity": 150.0,
+          "unit": "g"
+        },
+        {
+          "name": "garam masala",
+          "quantity": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "name": "ground turmeric",
+          "quantity": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "name": "chilli powder",
+          "quantity": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "name": "ground coriander",
+          "quantity": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "name": "boneless and skinless chicken thighs, cut into 2.5cm pieces",
+          "quantity": 6.0,
+          "unit": null
+        }
+      ],
+      "steps": [
+        "Heat the oil in a large, lidded saucepan over a medium-high heat, then add the garlic and chopped green chilli. Once these start to sizzle, pour in the passata, then cover and cook over a medium heat for 8 mins. Meanwhile, prepare the chicken. Put the yogurt, all the spices and ½ tsp salt in a bowl, and mix well. Add the chicken and mix until well coated. Set aside and keep covered until needed, or marinate for up to 24 hrs, if you have time.",
+        "Once the passata is cooked, stir in the spices along with 100ml boiling water from the kettle. Scrape the excess marinade off the chicken and into the pan, then add the chicken, cover and cook over a medium heat for 10-12 mins until cooked through. Add the honey and fenugreek, and mix well. To serve, drizzle with the cream, sprinkle over the coriander leaves and the sliced green chilli, if using. Serve with cooked rice."
+      ],
+      "prep_time": null
+    },
+    {
+      "name": "Quick Pasta Carbonara",
+      "ingredients": [
+        {
+          "name": "spaghetti",
+          "quantity": 200.0,
+          "unit": "g"
+        },
+        {
+          "name": "free-range eggs",
+          "quantity": 2.0,
+          "unit": null
+        },
+        {
+          "name": "Parmesan cheese, grated",
+          "quantity": 50.0,
+          "unit": "g"
+        },
+        {
+          "name": "Pancetta, diced",
+          "quantity": 50.0,
+          "unit": "g"
+        },
+        {
+          "name": "garlic, crushed",
+          "quantity": 1.0,
+          "unit": "clove"
+        },
+        {
+          "name": "Freshly ground black pepper",
+          "quantity": null,
+          "unit": null
+        },
+        {
+          "name": "olive oil",
+          "quantity": 2.0,
+          "unit": "tbsp"
+        }
+      ],
+      "steps": [
+        "Cook the spaghetti in boiling salted water according to package directions, until al dente.",
+        "While the pasta cooks, fry the pancetta in a pan with olive oil until crisp and golden.",
+        "Whisk the eggs with the grated Parmesan and plenty of black pepper.",
+        "Drain the spaghetti, reserving a ladle of pasta water.",
+        "Tip the hot spaghetti into the pancetta pan, toss to combine, then remove from the heat.",
+        "Quickly stir in the egg and cheese mixture, adding a splash of pasta water if needed to create a creamy sauce.",
+        "Serve immediately, with extra Parmesan and black pepper."
+      ],
+      "prep_time": null
+    },
+    {
+      "name": "Easy Banana Bread",
+      "ingredients": [
+        {
+          "name": "ripe bananas",
+          "quantity": 3.0,
+          "unit": null
+        },
+        {
+          "name": "unsalted butter, melted",
+          "quantity": 100.0,
+          "unit": "g"
+        },
+        {
+          "name": "caster sugar",
+          "quantity": 100.0,
+          "unit": "g"
+        },
+        {
+          "name": "large eggs",
+          "quantity": 2.0,
+          "unit": null
+        },
+        {
+          "name": "vanilla extract",
+          "quantity": 1.0,
+          "unit": "tsp"
+        },
+        {
+          "name": "self-raising flour",
+          "quantity": 150.0,
+          "unit": "g"
+        },
+        {
+          "name": "baking soda",
+          "quantity": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "name": "handful of walnuts, roughly broken (optional)",
+          "quantity": null,
+          "unit": null
+        }
+      ],
+      "steps": [
+        "Preheat oven to 180°C (160°C fan). Grease a 900g loaf tin and line the base with parchment paper.",
+        "Mash the ripe bananas in a bowl until smooth.",
+        "Stir in the melted butter, sugar, eggs, and vanilla extract until well combined.",
+        "Fold in the self-raising flour and baking soda (and walnuts, if using).",
+        "Pour the mixture into the prepared loaf tin.",
+        "Bake for 50-55 mins until golden and a skewer inserted into the centre comes out clean.",
+        "Cool in the tin for 10 mins, then transfer to a wire rack to cool completely."
+      ],
+      "prep_time": null
+    },
+    {
+      "name": "Classic Chocolate Chip Cookies",
+      "ingredients": [
+        {
+          "name": "(1 cup) unsalted butter, softened",
+          "quantity": 225.0,
+          "unit": "g"
+        },
+        {
+          "name": "(1 cup) brown sugar",
+          "quantity": 225.0,
+          "unit": "g"
+        },
+        {
+          "name": "(½ cup) white sugar",
+          "quantity": 100.0,
+          "unit": "g"
+        },
+        {
+          "name": "large eggs",
+          "quantity": 2.0,
+          "unit": null
+        },
+        {
+          "name": "vanilla extract",
+          "quantity": 2.0,
+          "unit": "tsp"
+        },
+        {
+          "name": "(2½ cups) all-purpose flour",
+          "quantity": 300.0,
+          "unit": "g"
+        },
+        {
+          "name": "baking soda",
+          "quantity": 1.0,
+          "unit": "tsp"
+        },
+        {
+          "name": "salt",
+          "quantity": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "name": "(1 cup) chocolate chips",
+          "quantity": 200.0,
+          "unit": "g"
+        },
+        {
+          "name": "(½ cup) chopped walnuts (optional)",
+          "quantity": 100.0,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Preheat oven to 190°C (170°C fan). Line baking sheets with parchment paper.",
+        "Cream together the softened butter, brown sugar, and white sugar until light and fluffy.",
+        "Beat in the eggs one at a time, then stir in the vanilla extract.",
+        "Mix the flour, baking soda, and salt in a separate bowl.",
+        "Gradually stir the dry ingredients into the wet mixture until just combined.",
+        "Fold in the chocolate chips (and chopped walnuts, if using).",
+        "Drop rounded tablespoons of dough onto the prepared baking sheets.",
+        "Bake for 9-11 mins until golden brown around the edges but still soft in the centre.",
+        "Cool on the baking sheet for 5 mins, then transfer to a wire rack to cool completely."
+      ],
+      "prep_time": null
+    },
+    {
+      "name": "Lemon Herb Salad",
+      "ingredients": [
+        {
+          "name": "mixed salad leaves (rocket, spinach, lettuce)",
+          "quantity": 2.0,
+          "unit": "cups"
+        },
+        {
+          "name": "large cucumber, sliced",
+          "quantity": 1.0,
+          "unit": null
+        },
+        {
+          "name": "radishes, thinly sliced",
+          "quantity": 2.0,
+          "unit": null
+        },
+        {
+          "name": "red onion, finely diced",
+          "quantity": 1.0,
+          "unit": null
+        },
+        {
+          "name": "lemon, zested and juiced",
+          "quantity": 1.0,
+          "unit": null
+        },
+        {
+          "name": "extra virgin olive oil",
+          "quantity": 2.0,
+          "unit": "tbsp"
+        },
+        {
+          "name": "fresh dill, chopped",
+          "quantity": 1.0,
+          "unit": "tbsp"
+        },
+        {
+          "name": "fresh mint, chopped",
+          "quantity": 1.0,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Salt and black pepper to taste",
+          "quantity": null,
+          "unit": null
+        },
+        {
+          "name": "feta cheese, crumbled (optional)",
+          "quantity": 0.5,
+          "unit": null
+        }
+      ],
+      "steps": [
+        "Wash and dry the salad leaves. Arrange them in a large serving bowl.",
+        "Add the cucumber slices, radish slices, and red onion dice to the bowl.",
+        "In a small bowl, whisk together the lemon zest, lemon juice, olive oil, dill, and mint.",
+        "Season the dressing with salt and pepper to taste.",
+        "Drizzle the dressing over the salad just before serving.",
+        "Sprinkle with crumbled feta if using."
+      ],
+      "prep_time": null
+    }
+  ]
+}
