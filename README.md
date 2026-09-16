@@ -97,6 +97,10 @@ scraping/
 ├── recipes/
 │   ├── output.csv           # Generated CSV (flattened, one row per ingredient)
 │   └── output.json          # Generated JSON (nested recipe structure)
+├── workflow-diagram.png     # Portfolio: pipeline overview (4:3, Upwork-ready)
+├── before-after-panel.png   # Portfolio: before/after panel (4:3, Upwork-ready)
+├── case-study.pdf           # Portfolio: one-page case study with results
+├── sample-output.pdf        # Portfolio: CSV + JSON excerpts
 └── README.md                # This file
 
 Running the Pipeline (no setup, no keys)
